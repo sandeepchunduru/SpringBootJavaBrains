@@ -1,7 +1,6 @@
-package restassured;
+package restassured.sheetalsingh;
 
 import io.javabrains.springbootstarter.entities.Topics;
-import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
